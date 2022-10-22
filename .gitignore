@@ -1,0 +1,5 @@
+.imports/
+Mylibrary/godot-cpp/
+Mylibrary/Debug/
+build/
+.vscode/
